@@ -1,6 +1,6 @@
 # 01BootcampHomework
 # Mitchell Robbins
-# Homework 01
+## Homework 01
 
 A marketing company has procured my services in refactoring their existing site. 
  The intended end states were achieved: 
@@ -41,7 +41,11 @@ h4
 
 -CSS stylesheet was re-organized to better match flow of use in HTML document. 
 
+[My deployed link](https://vookmirvookmir.github.io/01BootcampHomework/)
 
+![target layout](assets\Screencapture.png)
+```
+```
 # Given user story:
  
 ## User Story
@@ -68,8 +72,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
  
-## Target layout
-![target layout](\assets\screencapture-vookmirvookmir-github-io-01BootcampHomework-2021-09-16-09_56_12.png)
+
 
 ## Grading Requirements
  
