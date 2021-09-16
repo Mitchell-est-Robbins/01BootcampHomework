@@ -69,7 +69,7 @@ THEN I find a concise, descriptive title
 ```
  
 ## Target layout
-![target layout](./Assets/screencapture-vookmirvookmir-github-io-01BootcampHomework-2021-09_56_12.png)
+![target layout](\assets\screencapture-vookmirvookmir-github-io-01BootcampHomework-2021-09-16-09_56_12.png)
 
 ## Grading Requirements
  
