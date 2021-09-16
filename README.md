@@ -1,5 +1,5 @@
 # 01BootcampHomework
-
+# Mitchell Robbins
 # Homework 01
 
 A marketing company has procured my services in refactoring their existing site. 
@@ -69,7 +69,7 @@ THEN I find a concise, descriptive title
 ```
  
 ## Target layout
-![target layout](./Assets/01-html-css-git-homework-demo.png)
+![target layout](./Assets/screencapture-vookmirvookmir-github-io-01BootcampHomework-2021-09_56_12.png)
 
 ## Grading Requirements
  
